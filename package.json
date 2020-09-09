@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:tryptophannn/webpack-4-tutorial.git",
   "author": "tryptophannn <tryptophan.github@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
 }
