@@ -1,5 +1,5 @@
-import additionCalculator from './modules/additionCalculator';
-import taxCalculator from './modules/taxCalculator';
+import additionCalculator from './modules/addition-calculator';
+import taxCalculator from './modules/tax-calculator';
 
 let item1Price = 400;
 let item2Price = 600;
