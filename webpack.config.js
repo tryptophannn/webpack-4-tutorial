@@ -48,10 +48,11 @@ module.exports = {
       },
     ]
   },
+  // プラグインの設定
   plugins: [
     new webpack.ProvidePlugin({
       $: 'jquery'
     })
-  ]
+  ],
 };
 
