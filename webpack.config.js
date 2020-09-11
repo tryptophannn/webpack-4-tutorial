@@ -16,6 +16,7 @@ module.exports = {
     // 出力先のパス（絶対パスを指定する必要がある）
     path: path.join(__dirname, 'public/js')
   },
+  devtool: 'source-map',
   // ローダーの設定
   module: {
     rules: [
