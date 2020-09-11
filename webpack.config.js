@@ -1,3 +1,6 @@
+// プラグインを利用するためにwebpackを読み込んでおく
+const webpack = require('webpack');
+
 // output.pathに絶対パスを指定する必要があるため、pathモジュールを読み込んでおく
 const path = require('path');
 
